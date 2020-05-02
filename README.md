@@ -19,6 +19,7 @@ starting development.
 - [How to create commands](https://github.com/ulrack/cli-application/blob/master/docs/usage/create-a-command.md)
 - [How services work](https://github.com/ulrack/services#usage)
 - [How the kernel works](https://github.com/ulrack/kernel/blob/master/docs/index.md)
+- [Install the PECL YAML dependency](https://github.com/grizz-it/codec/blob/master/docs/usage/index.md)
 
 The following "invisible" services are available from the kernel:
 - `services.core.object.manager`
