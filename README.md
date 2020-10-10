@@ -1,3 +1,5 @@
+[![Join us on Discord](https://img.shields.io/discord/753858953452191916.svg?label=Join+us&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wdZkMY)
+
 # Ulrack CLI Edition
 
 This package contains the base project for a CLI package using Ulrack.
