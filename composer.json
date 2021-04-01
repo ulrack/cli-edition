@@ -11,8 +11,8 @@
     "prefer-stable": true,
     "minimum-stability": "stable",
     "require": {
-        "php": "^7.2",
-        "ulrack/cli-application": "^1.0"
+        "php": "^8.0",
+        "ulrack/cli-application": "^2.0"
     },
     "config": {
         "sort-packages": true
